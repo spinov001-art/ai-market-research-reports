@@ -1,6 +1,6 @@
 # AI Market Research Reports 2026
 
-**25 free reports** covering every major tech sector. TAM/SAM/SOM, SWOT, 9 data sources each.
+**30 free reports** covering every major tech sector. TAM/SAM/SOM, SWOT, 9 data sources each.
 
 ## Download (Free — No Signup)
 
@@ -31,12 +31,17 @@
 | 23 | MarTech | [Download](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/martech_global_2026.html) |
 | 24 | RegTech | [Download](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/regtech_global_2026.html) |
 | 25 | Autonomous Vehicles | [Download](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/autonomous_vehicles_global_2026.html) |
+| 26 | 3D Printing | [Download](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/3d_printing_global_2026.html) |
+| 27 | Telemedicine | [Download](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/telemedicine_digital_global_2026.html) |
+| 28 | Electric Vehicles | [Download](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/electric_vehicles_global_2026.html) |
+| 29 | Drone Technology | [Download](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/drone_technology_global_2026.html) |
+| 30 | Metaverse & VR/AR | [Download](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/metaverse_virtual_global_2026.html) |
 
-HTML format — open in browser, print to PDF.
+HTML — open in browser, print to PDF.
 
 ## Custom Reports
 
-[MCP Market Research Server](https://apify.com/knotless_cadence/mcp-market-research-server) — generate for any industry from 9 verified sources.
+[MCP Market Research Server](https://apify.com/knotless_cadence/mcp-market-research-server) — any industry, 9 sources, free.
 
 ## Links
 

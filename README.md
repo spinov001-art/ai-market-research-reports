@@ -1,45 +1,40 @@
-# AI Market Research Reports
+# AI Market Research Reports 2026
 
-Professional 30+ page market research reports with verified data from 60+ sources.
+Free, data-driven market research reports covering the hottest tech sectors.
 
-## Available Reports
+## Available Reports (Free Download)
 
-| Report | Pages | Size | Sources |
-|--------|-------|------|---------|
-| **AI/ML Market 2026** | 30+ | 93KB | Statista, McKinsey, Goldman Sachs |
-| **SaaS Market 2026** | 30+ | 108KB | Gartner, Crunchbase, Deloitte |
-| **E-commerce Market 2026** | 25+ | 82KB | eMarketer, Shopify, World Bank |
-| **HealthTech Market 2026** | 25+ | 88KB | Grand View Research, FDA, WHO |
-| **FinTech Market 2026** | 25+ | 100KB | CB Insights, Bloomberg, ECB |
+| Report | Pages | Download |
+|--------|-------|----------|
+| AI/ML Market Research 2026 | 30+ | [Download HTML](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/ai_ml_global_2026.html) |
+| SaaS Market Research 2026 | 30+ | [Download HTML](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/saas_global_2026.html) |
+| E-commerce Market Research 2026 | 25+ | [Download HTML](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/ecommerce_global_2026.html) |
+| HealthTech Market Research 2026 | 25+ | [Download HTML](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/healthtech_global_2026.html) |
+| FinTech Market Research 2026 | 25+ | [Download HTML](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/fintech_global_2026.html) |
+| Cybersecurity Market Research 2026 | 20+ | [Download HTML](https://github.com/spinov001-art/ai-market-research-reports/raw/main/reports/cybersecurity_global_2026.html) |
 
-## What's Inside
+## What's Inside Each Report
 
-Each report includes:
-- Executive Summary
-- Market Analysis (TAM/SAM/SOM)
-- Competitive Landscape (10 players)
-- Technology Trends
-- Investment Landscape
-- Target Audience Segments
-- Unit Economics
-- Risk Factors
-- Sources & References (60+)
+- Market size and growth projections (TAM/SAM/SOM)
+- Competitive landscape analysis
+- Key players and market share
+- Investment trends and funding data
+- Growth forecasts and CAGR
+- SWOT analysis
+- Target audience segmentation
+- Go-to-market channels
 
-## Format
+## How They're Built
 
-- HTML with embedded CSS (print-ready A4)
-- UTF-8 encoding
-- Times New Roman typography
-- Professional layout with charts and tables
+Reports aggregate data from 50+ public sources including industry publications, government statistics, company financials, academic research, and news coverage.
 
-## Brand
+## Generate Custom Reports
 
-**AI Market Intelligence** — data-driven market research reports.
+Use our [MCP Market Research Server](https://apify.com/knotless_cadence/mcp-market-research-server) to generate express reports for any industry.
 
-## Data Tools
+## More Tools
 
-Reports are built using our [60+ free data collection tools](https://github.com/spinov001-art/awesome-web-scraping-2026) on Apify Store.
+- [60+ free web scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026)
+- [15 MCP servers for AI agents](https://github.com/spinov001-art/mcp-servers-collection)
+- [Payhip Store](https://payhip.com/aimarketintel) — all reports in one place
 
-## License
-
-Reports are proprietary. Tools are MIT licensed.

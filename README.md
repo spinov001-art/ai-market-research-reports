@@ -4,6 +4,8 @@
 
 9 data sources per report. TAM/SAM/SOM, SWOT, competitive landscape. 5 languages.
 
+> **Need a CUSTOM report for YOUR industry?** $20 — any industry, any geography, delivered in 24h. Email **Spinov001@gmail.com** or [see pricing](https://spinov001-art.github.io).
+
 ## Browse All 500 Reports
 
 All reports are in the [reports/](./reports/) folder. Click any file to view, right-click to download.

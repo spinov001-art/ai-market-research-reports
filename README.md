@@ -20,8 +20,19 @@ Your report includes: market overview, 10+ latest news articles, competitor anal
 
 All reports are in the [reports/](./reports/) folder. Click any file to view, right-click to download.
 
-### Sample Industries Covered
-AI/ML, SaaS, FinTech, HealthTech, Cybersecurity, E-commerce, EdTech, CleanTech, AgriTech, Blockchain, IoT, Robotics, Quantum Computing, Space Tech, and 100+ more.
+### Industries Covered
+
+| Category | Example Reports |
+|----------|----------------|
+| **AI/ML** | GPT competitors, computer vision, NLP, MLOps |
+| **SaaS** | CRM, project management, analytics, communication |
+| **FinTech** | Digital payments, neobanks, crypto, insurance tech |
+| **HealthTech** | Telemedicine, mental health, wearables, drug discovery |
+| **Cybersecurity** | Zero trust, SIEM, identity management, cloud security |
+| **E-commerce** | DTC brands, marketplaces, fulfillment, social commerce |
+| **CleanTech** | Solar, EV charging, carbon capture, smart grid |
+| **EdTech** | Online learning, LMS, tutoring, skills assessment |
+| **Other** | Space tech, AgriTech, IoT, robotics, quantum computing, 100+ more |
 
 ## How Reports Are Generated
 

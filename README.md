@@ -1,5 +1,7 @@
 # AI Market Research Reports 2026
 
+> **Custom report for YOUR industry — $20, 24h delivery:** [**Order via Payoneer**](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) | Email: Spinov001@gmail.com
+
 **500+ professional market research reports** — the world's largest free collection of tech market research.
 
 9 verified data sources per report. TAM/SAM/SOM estimates, SWOT analysis, competitive landscape, technology trends, academic research. Available in 5 languages.

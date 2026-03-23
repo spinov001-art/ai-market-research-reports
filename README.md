@@ -1,20 +1,48 @@
 # AI Market Research Reports 2026
 
-**500 free reports** — the world's largest free collection of tech market research.
+**500+ professional market research reports** — the world's largest free collection of tech market research.
 
-9 data sources per report. TAM/SAM/SOM, SWOT, competitive landscape. 5 languages.
+9 verified data sources per report. TAM/SAM/SOM estimates, SWOT analysis, competitive landscape, technology trends, academic research. Available in 5 languages.
 
-> **Need a CUSTOM report for YOUR industry?** $20 — any industry, any geography, delivered in 24h. Email **Spinov001@gmail.com** or [see pricing](https://spinov001-art.github.io).
+---
 
-## Browse All 500 Reports
+## Need a Custom Report?
+
+**$20 — any industry, any geography, delivered in 24 hours.**
+
+Your report includes: market overview, 10+ latest news articles, competitor analysis, GitHub tech landscape, community sentiment, academic papers, and actionable recommendations.
+
+**[Order Custom Report via Payoneer ($20)](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** | Email: Spinov001@gmail.com
+
+---
+
+## Browse All 500+ Reports
 
 All reports are in the [reports/](./reports/) folder. Click any file to view, right-click to download.
 
-## Custom Reports
+### Sample Industries Covered
+AI/ML, SaaS, FinTech, HealthTech, Cybersecurity, E-commerce, EdTech, CleanTech, AgriTech, Blockchain, IoT, Robotics, Quantum Computing, Space Tech, and 100+ more.
 
-[MCP Market Research Server](https://apify.com/knotless_cadence/mcp-market-research-server) — generate for any industry from 9 verified sources.
+## How Reports Are Generated
 
-## Links
+Each report pulls data from **9 verified public sources**:
+- Wikipedia (market overview)
+- Google News (latest 10 articles)
+- GitHub (technology landscape by stars)
+- Hacker News (community sentiment)
+- Stack Overflow (developer interest)
+- arXiv (academic research)
+- npm (package ecosystem)
+- And more
 
-[Payhip store](https://payhip.com/aimarketintel) · [77 scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026) · [15 MCP servers](https://github.com/spinov001-art/mcp-servers-collection)
+**No hallucinated data.** Every fact links to its source.
 
+## Tools
+
+- [MCP Market Research Server](https://apify.com/knotless_cadence/mcp-market-research-server) — generate reports via AI agent
+- [77 free web scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026) on Apify Store
+- [15 MCP servers](https://github.com/spinov001-art/mcp-servers-collection) for AI agents
+
+---
+
+**[Get Your Custom Report — $20](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)**

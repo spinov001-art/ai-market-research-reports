@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>500+ Free Market Research Reports — AI Market Intelligence</title>
+<meta name="description" content="Browse 500+ free market research reports covering AI, SaaS, FinTech, HealthTech, Cybersecurity and 100+ industries. Custom reports $20.">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui;background:#0d1117;color:#e6edf3;padding:40px 20px;max-width:900px;margin:0 auto}
+h1{font-size:28px;color:#58a6ff;margin-bottom:10px}
+a{color:#58a6ff}
+.cta{display:block;text-align:center;background:#238636;color:white;padding:14px;border-radius:8px;text-decoration:none;font-weight:600;margin:20px 0;font-size:18px}
+.reports{columns:2;gap:10px;margin:20px 0}
+.reports a{display:block;padding:4px 0;font-size:14px;color:#8b949e;text-decoration:none}
+.reports a:hover{color:#58a6ff}
+p{color:#8b949e;margin:10px 0;line-height:1.6}
+</style>
+</head>
+<body>
+<h1>500+ Free Market Research Reports</h1>
+<p>The world's largest free collection of tech market research. 9 verified data sources per report.</p>
+<a href="https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl" class="cta">Custom Report for YOUR Industry — $20 via Payoneer</a>
+<p>Browse all reports below. Click any to view.</p>
+<div class="reports" id="reports"></div>
+<a href="https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl" class="cta">Order Custom Report — $20</a>
+<p style="text-align:center;margin-top:20px">
+<a href="https://github.com/spinov001-art/ai-market-research-reports">GitHub</a> ·
+<a href="https://apify.com/knotless_cadence/mcp-market-research-server">MCP Server</a> ·
+<a href="https://spinov001-art.github.io">All Services</a>
+</p>
+<script>
+// Auto-generate report links from known pattern
+const industries = ['AI/ML','SaaS','FinTech','HealthTech','Cybersecurity','E-commerce','EdTech','CleanTech','AgriTech','Blockchain','IoT','Robotics','Quantum Computing','Space Tech','3D Printing','5G','AR/VR','Autonomous Vehicles','Battery Technology','Bioinformatics','Carbon Capture','Cloud Computing','Computer Vision','CRM','Data Analytics','Deep Learning','Digital Payments','Drone Technology','EV Charging','Food Tech','Gene Therapy','HR Tech','InsurTech','Legal Tech','MarTech','Nanotechnology','NLP','Podcast','PropTech','RegTech','Smart Cities','Supply Chain','Telehealth','Video Streaming','Wearables'];
+const el = document.getElementById('reports');
+industries.forEach(i => {
+  const slug = i.toLowerCase().replace(/[^a-z0-9]/g,'_');
+  el.innerHTML += `<a href="reports/${slug}_global_2026.html">${i}</a>`;
+});
+</script>
+</body>
+</html>

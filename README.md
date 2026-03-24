@@ -50,6 +50,12 @@ Each report pulls data from **9 verified public sources**:
 
 **No hallucinated data.** Every fact links to its source.
 
+## Social Proof
+
+📊 **1,600+ clones** in first 2 weeks · Discovered via [Hacker News](https://news.ycombinator.com) and [Kagi Search](https://kagi.com)
+
+📖 **Tutorials:** [YouTube's Secret Innertube API](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil) · [250+ articles on Dev.to](https://dev.to/0012303)
+
 ## Tools
 
 - [MCP Market Research Server](https://apify.com/knotless_cadence/mcp-market-research-server) — generate reports via AI agent

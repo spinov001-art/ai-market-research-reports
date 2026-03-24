@@ -61,6 +61,8 @@ Each report pulls data from **9 verified public sources**:
 - [MCP Market Research Server](https://apify.com/knotless_cadence/mcp-market-research-server) — generate reports via AI agent
 - [77 free web scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026) on Apify Store
 - [15 MCP servers](https://github.com/spinov001-art/mcp-servers-collection) for AI agents
+- [ML Fine-Tuning Guide](https://github.com/spinov001-art/ml-fine-tuning-free) — Train custom models on research data
+- [Free GPU Options](https://github.com/spinov001-art/free-gpu-machine-learning) — Every free GPU for ML training
 
 ---
 

@@ -83,6 +83,10 @@ Used by startup founders, VCs, product managers, and researchers worldwide.
 
 ---
 
+## Request a Free Report
+
+Don'''t see your industry? [Open an issue](https://github.com/spinov001-art/ai-market-research-reports/issues/new?template=report-request.md) and I'''ll generate a report for you within 48 hours.
+
 ## Need Market Research?
 
 Comprehensive reports for any industry — competitive analysis, market sizing, trends.

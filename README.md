@@ -83,7 +83,11 @@ Used by startup founders, VCs, product managers, and researchers worldwide.
 
 ---
 
-**Questions? Email Spinov001@gmail.com**
+## Need Market Research?
+
+Comprehensive reports for any industry — competitive analysis, market sizing, trends.
+
+**[Order a report →](https://spinov001-art.github.io)** | Email: Spinov001@gmail.com | Starting at $20
 
 **Related articles:**
 - [I Built 51 GitHub Repos in 10 Days — What Got Traffic](https://dev.to/0012303/i-built-51-github-repos-in-10-days-here-is-what-actually-got-traffic-np0)

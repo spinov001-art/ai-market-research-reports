@@ -80,6 +80,9 @@ Used by startup founders, VCs, product managers, and researchers worldwide.
 - [PubMed Search](https://github.com/Spinov001-art/pubmed-search) — Query 36M+ medical papers
 - [API Rate Limits Guide](https://github.com/Spinov001-art/api-rate-limits-guide) — 50+ API rate limits
 - [Python Data Pipelines](https://github.com/Spinov001-art/python-data-pipelines) — 15 pipeline templates
+- [Claude MCP Cookbook](https://github.com/spinov001-art/claude-mcp-cookbook) — 15 MCP server examples for AI agents
+- [AI Agent Starter Kit](https://github.com/spinov001-art/ai-agent-starter-kit) — Build AI agents in 10 minutes
+- [Startup Tech Stacks 2026](https://github.com/spinov001-art/startup-tech-stack-2026) — What 200+ YC startups use
 
 ---
 

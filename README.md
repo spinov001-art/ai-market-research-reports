@@ -52,17 +52,20 @@ Each report pulls data from **9 verified public sources**:
 
 ## Social Proof
 
-📊 **1,600+ clones** in first 2 weeks · Discovered via [Hacker News](https://news.ycombinator.com) and [Kagi Search](https://kagi.com)
+📊 **1,668 clones, 478 unique visitors** · Discovered via [Hacker News](https://news.ycombinator.com) and [Kagi Search](https://kagi.com)
 
 📖 **Tutorials:** [YouTube's Secret Innertube API](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil) · [250+ articles on Dev.to](https://dev.to/0012303)
 
-## Tools
+## Tools & Related Projects
 
 - [MCP Market Research Server](https://apify.com/knotless_cadence/mcp-market-research-server) — generate reports via AI agent
-- [77 free web scrapers](https://github.com/spinov001-art/awesome-web-scraping-2026) on Apify Store
-- [15 MCP servers](https://github.com/spinov001-art/mcp-servers-collection) for AI agents
-- [ML Fine-Tuning Guide](https://github.com/spinov001-art/ml-fine-tuning-free) — Train custom models on research data
-- [Free GPU Options](https://github.com/spinov001-art/free-gpu-machine-learning) — Every free GPU for ML training
+- [Awesome Web Scraping 2026](https://github.com/Spinov001-art/awesome-web-scraping-2026) — 500+ scraping tools and APIs
+- [Free APIs List](https://github.com/Spinov001-art/free-apis-list) — 200+ APIs that need no key
+- [PubMed Search](https://github.com/Spinov001-art/pubmed-search) — Query 36M+ medical papers for health reports
+- [ML Fine-Tuning Guide](https://github.com/Spinov001-art/ml-fine-tuning-free) — Train custom models on research data
+- [LLM Cost Calculator](https://github.com/Spinov001-art/llm-cost-calculator) — Compare AI API costs
+- [Prompt Engineering Guide](https://github.com/Spinov001-art/prompt-engineering-guide) — LLM prompt patterns
+- [AI Tools Comparison](https://github.com/Spinov001-art/ai-tools-comparison) — Benchmarks for all AI tools
 
 ---
 

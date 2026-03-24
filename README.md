@@ -70,7 +70,10 @@ Each report pulls data from **9 verified public sources**:
 
 Used by startup founders, VCs, product managers, and researchers worldwide.
 
-## Related Projects
+## Related
+
+- [OpenAlex Research Tools](https://github.com/spinov001-art/openalex-research-tools) — Search 250M+ research papers for free (no API key)
+ Projects
 
 - [Awesome Web Scraping 2026](https://github.com/Spinov001-art/awesome-web-scraping-2026) ⭐9 — 500+ scraping tools and APIs
 - [Free APIs List](https://github.com/Spinov001-art/free-apis-list) — 200+ APIs that need no key

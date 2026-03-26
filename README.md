@@ -104,7 +104,9 @@ Don'''t see your industry? [Open an issue](https://github.com/spinov001-art/ai-m
 
 Comprehensive reports for any industry — competitive analysis, market sizing, trends.
 
-**[Order a report →](https://spinov001-art.github.io)** | Email: Spinov001@gmail.com | Starting at $20
+**[Order a custom report → Pay via Payoneer ($20 min)](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** | Email: Spinov001@gmail.com
+
+🔧 **[Browse 88+ data extraction tools →](https://apify.com/spinov001)** — automate your market research data collection
 
 **Related articles:**
 - [I Built 51 GitHub Repos in 10 Days — What Got Traffic](https://dev.to/0012303/i-built-51-github-repos-in-10-days-here-is-what-actually-got-traffic-np0)

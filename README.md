@@ -26,7 +26,7 @@ I create professional market research reports for startups, investors, and produ
 1. **Email Spinov001@gmail.com** with your industry/topic
 2. I'll confirm scope and timeline
 3. Receive your report in 24 hours
-4. Pay $20 via [Payoneer](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or PayPal
+4. Pay $20 via **[Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)**
 
 **Bulk discount:** 5 reports for $80 (save $20).
 

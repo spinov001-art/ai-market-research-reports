@@ -70,6 +70,20 @@ Each report pulls data from **9 verified public sources**:
 
 Used by startup founders, VCs, product managers, and researchers worldwide.
 
+
+
+---
+
+## Need Custom Market Research?
+
+I build **AI-powered market research tools** and data collection systems.
+
+- **88+ web scrapers** on [Apify Store](https://apify.com/knotless_cadence) — ready-made data extraction
+- Custom research reports with verified data and citations
+- Automated competitor monitoring and market analysis
+
+**Email:** spinov001@gmail.com | **[Support via Payoneer](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)**
+
 ## Related
 
 - [OpenAlex Research Tools](https://github.com/spinov001-art/openalex-research-tools) — Search 250M+ research papers for free (no API key)

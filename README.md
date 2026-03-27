@@ -66,7 +66,7 @@ Each report pulls data from **9 verified public sources**:
 
 ## Who Uses These Reports
 
-📊 **1,668 clones, 478 unique visitors** — discovered via [Hacker News](https://news.ycombinator.com) and [Kagi Search](https://kagi.com)
+📊 **1,749 clones, 511 unique visitors** — discovered via [Hacker News](https://news.ycombinator.com) and [Kagi Search](https://kagi.com)
 
 Used by startup founders, VCs, product managers, and researchers worldwide.
 

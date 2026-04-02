@@ -1,6 +1,6 @@
 # AI Market Research Reports 2026 [![Clones](https://img.shields.io/badge/clones-1.6k%2B-blue)](https://github.com/spinov001-art/ai-market-research-reports) [![Stars](https://img.shields.io/github/stars/spinov001-art/ai-market-research-reports?style=social)](https://github.com/spinov001-art/ai-market-research-reports)
 
-> **Need a research report for YOUR industry?** Email **Spinov001@gmail.com** — $20, delivered in 24 hours.
+> **Need a research report for YOUR industry?** Email **Spinov001@gmail.com** — $20, delivered in 24 hours. **Reply by Friday** for priority slot.
 
 **500+ professional market research reports** — the world's largest free collection of tech market research. **1,600+ clones** and growing.
 

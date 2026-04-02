@@ -118,7 +118,7 @@ Don'''t see your industry? [Open an issue](https://github.com/spinov001-art/ai-m
 
 Comprehensive reports for any industry — competitive analysis, market sizing, trends.
 
-**[Order a custom report → Pay via Payoneer ($20 min)](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** | Email: Spinov001@gmail.com
+**[Order a custom report → Pay via Payoneer ($20 min)](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** | 📧 Spinov001@gmail.com — get a **free quote within 2 hours**
 
 🔧 **[Browse 88+ data extraction tools →](https://apify.com/knotless_cadence)** — automate your market research data collection
 

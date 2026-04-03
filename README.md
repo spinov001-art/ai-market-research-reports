@@ -112,7 +112,7 @@ I build **AI-powered market research tools** and data collection systems.
 
 ## Request a Free Report
 
-Don'''t see your industry? [Open an issue](https://github.com/spinov001-art/ai-market-research-reports/issues/new?template=report-request.md) and I'''ll generate a report for you within 48 hours.
+Don't see your industry? [Open an issue](https://github.com/spinov001-art/ai-market-research-reports/issues/new?template=report-request.md) and I'll generate a report for you within 48 hours.
 
 ## Need Market Research?
 
@@ -122,6 +122,6 @@ Comprehensive reports for any industry — competitive analysis, market sizing, 
 
 🔧 **[Browse 88+ data extraction tools →](https://apify.com/knotless_cadence)** — automate your market research data collection
 
-**Related articles:**
-- [I Built 51 GitHub Repos in 10 Days — What Got Traffic](https://dev.to/0012303/i-built-51-github-repos-in-10-days-here-is-what-actually-got-traffic-np0)
-- [Build an AI Knowledge Base from YouTube](https://dev.to/0012303/build-an-ai-knowledge-base-from-youtube-rag-innertube-api-no-api-key-4i4c-temp-slug-2966294)
+**Related repos:**
+- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — curated list of web scraping tools & APIs
+- [python-api-clients](https://github.com/spinov001-art/python-api-clients) — ready-to-use Python API client examples

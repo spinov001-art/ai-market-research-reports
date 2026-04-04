@@ -120,9 +120,13 @@ Don't see your industry? [Open an issue](https://github.com/spinov001-art/ai-mar
 
 Get a comprehensive report for YOUR industry — competitive analysis, market sizing (TAM/SAM/SOM), pricing benchmarks, and growth trends. Delivered as a professional HTML/PDF document.
 
-**🔥 First 5 clients get a mini-report FREE** (3-page executive summary of your market). Email me today — spots fill fast.
+**Pricing:**
+- **Express report** ($200-500) — 3-5 day delivery, market overview + competitors + recommendations
+- **Deep research** ($500-1,500) — 7-10 days, full TAM/SAM/SOM, unit economics, investor-ready format
 
-**[Order a full report → Pay via Payoneer ($20 min)](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** | 📧 **Spinov001@gmail.com** — reply within 2 hours, delivery in 48h
+**[View full pricing & portfolio →](https://spinov001-art.github.io/research.html)** | 📧 **Spinov001@gmail.com** — reply within 2 hours
+
+**Payment:** [Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or USDT (TRC20)
 
 🔧 **[Browse 88+ data extraction tools →](https://apify.com/knotless_cadence)** — automate your market research data collection
 

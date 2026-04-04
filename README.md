@@ -114,11 +114,13 @@ I build **AI-powered market research tools** and data collection systems.
 
 Don't see your industry? [Open an issue](https://github.com/spinov001-art/ai-market-research-reports/issues/new?template=report-request.md) and I'll generate a report for you within 48 hours.
 
-## Need Market Research?
+## Need Custom Market Research?
 
-Comprehensive reports for any industry — competitive analysis, market sizing, trends.
+Get a comprehensive report for YOUR industry — competitive analysis, market sizing (TAM/SAM/SOM), pricing benchmarks, and growth trends. Delivered as a professional HTML/PDF document.
 
-**[Order a custom report → Pay via Payoneer ($20 min)](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** | 📧 Spinov001@gmail.com — get a **free quote within 2 hours**
+**🔥 First 5 clients get a mini-report FREE** (3-page executive summary of your market). Email me today — spots fill fast.
+
+**[Order a full report → Pay via Payoneer ($20 min)](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** | 📧 **Spinov001@gmail.com** — reply within 2 hours, delivery in 48h
 
 🔧 **[Browse 88+ data extraction tools →](https://apify.com/knotless_cadence)** — automate your market research data collection
 

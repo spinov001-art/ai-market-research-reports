@@ -30,6 +30,8 @@ I create professional market research reports for startups, investors, and produ
 
 **Bulk discount:** 5 reports for $80 (save $20). **First-time buyer?** Get 1 report free — just ⭐ star this repo and mention it in your email.
 
+> 📊 **Need deep analysis?** [Premium Market Research ($200-$1,500)](https://spinov001-art.github.io/research.html) — TAM/SAM/SOM, SWOT, competitive intelligence, unit economics, investor-ready format. 20+ client projects delivered.
+
 ---
 
 ## Browse All 500+ Free Reports

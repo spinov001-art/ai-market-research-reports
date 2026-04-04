@@ -30,7 +30,7 @@ I create professional market research reports for startups, investors, and produ
 
 **Bulk discount:** 5 reports for $80 (save $20). **First-time buyer?** Get 1 report free — just ⭐ star this repo and mention it in your email.
 
-> 📊 **Need deep analysis?** [Premium Market Research ($200-$1,500)](https://spinov001-art.github.io/research.html) — TAM/SAM/SOM, SWOT, competitive intelligence, unit economics, investor-ready format. 20+ client projects delivered.
+> 📊 **Need deep analysis?** Premium Market Research ($200–$1,500) — TAM/SAM/SOM, SWOT, competitive intelligence, unit economics, investor-ready format. 20+ client projects delivered. 📧 **Spinov001@gmail.com** — reply within 2 hours.
 
 ---
 
@@ -124,7 +124,7 @@ Get a comprehensive report for YOUR industry — competitive analysis, market si
 - **Express report** ($200-500) — 3-5 day delivery, market overview + competitors + recommendations
 - **Deep research** ($500-1,500) — 7-10 days, full TAM/SAM/SOM, unit economics, investor-ready format
 
-**[View full pricing & portfolio →](https://spinov001-art.github.io/research.html)** | 📧 **Spinov001@gmail.com** — reply within 2 hours
+📧 **Spinov001@gmail.com** — Get a custom quote within 2 hours. Mention this repo for 10% off your first report.
 
 **Payment:** [Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or USDT (TRC20)
 

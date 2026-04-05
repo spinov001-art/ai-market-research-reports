@@ -121,7 +121,7 @@ Don't see your industry? [Open an issue](https://github.com/spinov001-art/ai-mar
 Get a comprehensive report for YOUR industry — competitive analysis, market sizing (TAM/SAM/SOM), pricing benchmarks, and growth trends. Delivered as a professional HTML/PDF document.
 
 **Pricing:**
-- **Express report** ($2500-500) — 3-5 day delivery, market overview + competitors + recommendations
+- **Express report** ($250-500) — 3-5 day delivery, market overview + competitors + recommendations
 - **Deep research** ($500-1,500) — 7-10 days, full TAM/SAM/SOM, unit economics, investor-ready format
 
 📧 **Spinov001@gmail.com** — Get a custom quote within 2 hours. Mention this repo for 10% off your first report.

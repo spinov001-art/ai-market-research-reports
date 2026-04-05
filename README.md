@@ -1,6 +1,6 @@
 # AI Market Research Reports 2026 [![Clones](https://img.shields.io/badge/clones-1.6k%2B-blue)](https://github.com/spinov001-art/ai-market-research-reports) [![Stars](https://img.shields.io/github/stars/spinov001-art/ai-market-research-reports?style=social)](https://github.com/spinov001-art/ai-market-research-reports)
 
-> **Need a research report for YOUR industry?** Email **Spinov001@gmail.com** — $20, delivered in 24 hours. **First 5 orders this month** get priority slot.
+> **Need a research report for YOUR industry?** Email **Spinov001@gmail.com** — $250 flat rate, delivered in 48 hours. **First 5 orders this month** get priority slot.
 
 **500+ professional market research reports** — the world's largest free collection of tech market research. **1,600+ clones** and growing.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Custom Reports — $20, 24h Delivery
+## Custom Reports — $250 Flat Rate, 48h Delivery
 
 I create professional market research reports for startups, investors, and product teams.
 
@@ -26,9 +26,9 @@ I create professional market research reports for startups, investors, and produ
 1. **Email Spinov001@gmail.com** with your industry/topic
 2. I'll confirm scope and timeline
 3. Receive your report in 24 hours
-4. Pay $20 via **[Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** or **USDT (TRC20)**
+4. Pay $250 via **[Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** or **USDT (TRC20)**
 
-**Bulk discount:** 5 reports for $80 (save $20). **First-time buyer?** Get 1 report free — just ⭐ star this repo and mention it in your email.
+**Bulk discount:** 3 reports for $600 (save $150). **First-time buyer?** Get a free sample section — just ⭐ star this repo and mention it in your email.
 
 > 📊 **Need deep analysis?** Premium Market Research ($200–$1,500) — TAM/SAM/SOM, SWOT, competitive intelligence, unit economics, investor-ready format. 20+ client projects delivered. 📧 **Spinov001@gmail.com** — reply within 2 hours.
 

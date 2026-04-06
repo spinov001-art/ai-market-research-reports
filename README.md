@@ -92,6 +92,7 @@ I build **AI-powered market research tools** and data collection systems.
  Projects
 
 - [Awesome Web Scraping 2026](https://github.com/Spinov001-art/awesome-web-scraping-2026) ⭐9 — 500+ scraping tools and APIs
+- [Awesome Free APIs 2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 150+ free APIs for developers
 - [Free APIs List](https://github.com/Spinov001-art/free-apis-list) — 200+ APIs that need no key
 - [PubMed Search](https://github.com/Spinov001-art/pubmed-search) — Query 36M+ medical papers
 - [API Rate Limits Guide](https://github.com/Spinov001-art/api-rate-limits-guide) — 50+ API rate limits

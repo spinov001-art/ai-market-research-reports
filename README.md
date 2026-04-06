@@ -80,11 +80,13 @@ Used by startup founders, VCs, product managers, and researchers worldwide.
 
 I build **AI-powered market research tools** and data collection systems.
 
-- **78 web scrapers** on [Apify Store](https://apify.com/knotless_cadence) — ready-made data extraction
+- **79 web scrapers** on [Apify Store](https://apify.com/knotless_cadence) — ready-made data extraction
 - Custom research reports with verified data and citations
 - Automated competitor monitoring and market analysis
 
 **Email:** spinov001@gmail.com | **[Support via Payoneer](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)**
+
+📌 **For companies:** Want a sponsored technical article about your product reaching 1,600+ researchers/month? Published author with proven delivery. Pilot rate: $100/article. Email **spinov001@gmail.com**
 
 ## Related
 

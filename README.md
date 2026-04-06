@@ -80,7 +80,7 @@ Used by startup founders, VCs, product managers, and researchers worldwide.
 
 I build **AI-powered market research tools** and data collection systems.
 
-- **88+ web scrapers** on [Apify Store](https://apify.com/knotless_cadence) — ready-made data extraction
+- **78 web scrapers** on [Apify Store](https://apify.com/knotless_cadence) — ready-made data extraction
 - Custom research reports with verified data and citations
 - Automated competitor monitoring and market analysis
 
@@ -128,7 +128,7 @@ Get a comprehensive report for YOUR industry — competitive analysis, market si
 
 **Payment:** [Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or USDT (TRC20)
 
-🔧 **[Browse 88+ data extraction tools →](https://apify.com/knotless_cadence)** — automate your market research data collection
+🔧 **[Browse 78 data extraction tools →](https://apify.com/knotless_cadence)** — automate your market research data collection
 
 **Related repos:**
 - [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — curated list of web scraping tools & APIs
